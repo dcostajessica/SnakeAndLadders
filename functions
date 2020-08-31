@@ -1,0 +1,15 @@
+Asssigning elements to various lists
+numbers1 = [1,2,3,4,5]
+numbers2 = [10,20,30,50]
+print(numbers1)
+print(numbers2)
+
+Acessing elements from a tuple
+my_tuple = ("python","C","C++")
+print(my_tuple[2])
+
+Deleting different dictionary elements
+my_dict = {"C": "Easy", "C++":"Moderate", "Java":"Tough"}
+del my_dict["C"]
+print(my_dict)
+
